@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dream]]></title>
+        <description><![CDATA[Dream]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 06:45:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Самые яркие моменты ЕВРО-2016]]></title>
+            <description><![CDATA[<article><h1>Самые яркие моменты ЕВРО-2016</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8deaa7c39a1b056b817463d7fdb22f9e/noop.mp4?input=http%3A%2F%2Ftrkmedia.ollcdn.net%2Fresizer%2Fw640-h360%2Fuploads%2Ffootball-secure%2Fbonjur%2F11_07_2016%2Fbest_moments_euro.mp4%3Fpreview.jpg"></article>]]></description>
+            <link>http://footballua.tv/video/bonjour-euro/view/44621/</link>
+            <guid isPermaLink="false">c78a8c92-4cc3-48ac-81e5-d24d0b8253a7</guid>
+            <pubDate>Thu, 14 Jul 2016 06:45:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
