@@ -2,10 +2,38 @@
     <channel>
         <title><![CDATA[Dream]]></title>
         <description><![CDATA[Dream]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dream/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 06:45:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 06:46:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dream/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Эйфелеву башню закрыли после финала ЕВРО]]></title>
+            <description><![CDATA[<article><h1>Эйфелеву башню закрыли после финала ЕВРО</h1><p>Смотрите Футбол news онлайн на канале Футбол 1 и Футбол 2. Новости футбола Украины и мира.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4afc4f2f1ee8c7fc01a36b8f7a4bac9c/noop.mp4?input=http%3A%2F%2Ftrkmedia.ollcdn.net%2Fresizer%2Fw640-h360%2Fuploads%2Ffootball-secure%2Ffootball_news%2F11_07_2016%2Feyfel.mp4%3Fpreview.jpg"></article>]]></description>
+            <link>http://footballua.tv/video/football-news/view/44643/</link>
+            <guid isPermaLink="false">c825ea2c-a03e-4844-a938-601548e8443f</guid>
+            <pubDate>Thu, 14 Jul 2016 06:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Незабываемые эмоции ЕВРО-2016]]></title>
+            <description><![CDATA[<article><h1>Незабываемые эмоции ЕВРО-2016</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5aea7d3afc10471cf3f25f71ae3caa0c/noop.mp4?input=http%3A%2F%2Ftrkmedia.ollcdn.net%2Fresizer%2Fw640-h360%2Fuploads%2Ffootball-secure%2Frendex%2F11_07_2016%2Fbest_in_euro.mp4%3Fpreview.jpg"></article>]]></description>
+            <link>http://footballua.tv/video/euro-rendex-vous/view/44647/</link>
+            <guid isPermaLink="false">7ead2142-dacf-4c01-8ea6-5f3386afda23</guid>
+            <pubDate>Thu, 14 Jul 2016 06:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Невероятные эмоции в фан-зонах во время финала ЕВРО]]></title>
+            <description><![CDATA[<article><h1>Невероятные эмоции в фан-зонах во время финала ЕВРО</h1><p>Смотрите Футбол news онлайн на канале Футбол 1 и Футбол 2. Новости футбола Украины и мира.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df64b9008d947c3b62f0752948624643/noop.mp4?input=http%3A%2F%2Ftrkmedia.ollcdn.net%2Fresizer%2Fw640-h360%2Fuploads%2Ffootball-secure%2Ffootball_news%2F11_07_2016%2Ffrance_support.mp4%3Fpreview.jpg"></article>]]></description>
+            <link>http://footballua.tv/video/football-news/view/44635/</link>
+            <guid isPermaLink="false">af16a443-c515-4756-913d-f5765289dbfd</guid>
+            <pubDate>Thu, 14 Jul 2016 06:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Гол Эдер | Португалия - Франция 1:0]]></title>
+            <description><![CDATA[<article><h1>Гол Эдер | Португалия - Франция 1:0</h1><p>Видео лучших моментов, курьезы на поле, сейвы вратарей, ТОП моменты Лиги Чемпионов.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09974ef6f93280f5df21fcc14aac336d/noop.jpg?input=http%3A%2F%2Ftrkmedia.ollcdn.net%2Fresizer%2Fw640-h360%2Fuploads%2Ffootball-olltv%2F111227.jpg%3Fpreview.jpg"></article>]]></description>
+            <link>http://footballua.tv/video/best-football-moments/view/44603/</link>
+            <guid isPermaLink="false">c4a8cbc1-38d1-4e7a-ae90-57c7327404bb</guid>
+            <pubDate>Thu, 14 Jul 2016 06:46:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Самые яркие моменты ЕВРО-2016]]></title>
             <description><![CDATA[<article><h1>Самые яркие моменты ЕВРО-2016</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8deaa7c39a1b056b817463d7fdb22f9e/noop.mp4?input=http%3A%2F%2Ftrkmedia.ollcdn.net%2Fresizer%2Fw640-h360%2Fuploads%2Ffootball-secure%2Fbonjur%2F11_07_2016%2Fbest_moments_euro.mp4%3Fpreview.jpg"></article>]]></description>
