@@ -1,14 +1,14 @@
 layout_spectrum: 0.9702613044064492
-typography_spectrum: 0.9492838575970381
+typography_spectrum: 0.06031365925446153
 color:
-  brandStrength: 0.7814596008975059
-  lightness: 0.7751660996582359
-  saturation: 0.3812153802718967
-  rhythmicContrast: 0.43546860525384545
+  brandStrength: 0.5131094653625041
+  lightness: 0.34120358573272824
+  saturation: 0.009301994228735566
+  rhythmicContrast: 0.6394997560419142
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Dream
